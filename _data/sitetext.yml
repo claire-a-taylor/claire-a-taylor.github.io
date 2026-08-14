@@ -23,22 +23,22 @@ en: &DEFAULT_EN
     list:
       - title: "Design"
         desc: "I do all kinds of Design."
-        icon: fa-solid fa-wand-magic-sparkles #find more at https://fontawesome.com/icons
+        icon: fas fa-wand-magic-sparkles #find more at https://fontawesome.com/icons
       - title: "Coding"
         desc: "I know da coding."
-        icon: fa-solid fa-file-code"
+        icon: fas fa-file-code"
       - title: "Programs"
         desc: "I've done the thing."
-        icon: fa-brands fa-unreal-engine
+        icon: fab fa-unreal-engine
       - title: "Something Else"
         desc: "This is important."
-        icon: fa-solid fa-shield-halved
+        icon: fas fa-shield-halved
       - title: "Another thing"
         desc: "Ignore this."
-        icon: fa-solid fa-poo
+        icon: fas fa-poo
       - title: "[Linking](https://en.wikipedia.org/wiki/Hyperlink)"
         desc: "This one is a link."
-        icon: fa-solid fa-link
+        icon: fas fa-link
 
   portfolio:
     title: "Portfolio"
