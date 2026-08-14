@@ -1,7 +1,7 @@
 ---
 title: Project Threads
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://www.youtube.com/embed/vAFFT-A55N4
+image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889
 alt: Shirts on a hanger
 
 caption:
@@ -10,6 +10,8 @@ caption:
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+
+<iframe width="1335" height="751" src="https://www.youtube.com/embed/vAFFT-A55N4" title="Destiny 2 Distortion Chest Cage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 {:.list-inline}
 - Date: January 2017
