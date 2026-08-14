@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   nav:
     - title: "Skills"
-      section: skills
+      section: services
     - title: "Portfolio"
       section: portfolio
     - title: "About"
