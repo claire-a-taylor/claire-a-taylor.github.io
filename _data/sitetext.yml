@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Design"
         desc: "I do all kinds of Design."
-        icon: fas fa-wand-magic-sparkles #find more at https://fontawesome.com/icons
+        icon: fas fa-link #find more at https://fontawesome.com/icons
       - title: "Coding"
         desc: "I know da coding."
         icon: fas fa-file-code"
