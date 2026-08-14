@@ -23,16 +23,16 @@ en: &DEFAULT_EN
     list:
       - title: "Design"
         desc: "I do all kinds of Design."
-        icon: fas fawandmagicsparkles #find more at https://fontawesome.com/icons
+        icon: fas fa-icons #find more at https://fontawesome.com/icons
       - title: "Coding"
         desc: "I know da coding."
-        icon: fas fa-filecode"
+        icon: fas fa-code"
       - title: "Programs"
         desc: "I've done the thing."
-        icon: fab fa-unrealengine
+        icon: fas fa-keyboard
       - title: "Something Else"
         desc: "This is important."
-        icon: fas fa-shieldhalved
+        icon: fas fa-computer
       - title: "Another thing"
         desc: "Ignore this."
         icon: fas fa-poo
