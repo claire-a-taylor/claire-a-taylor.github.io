@@ -18,18 +18,21 @@ en: &DEFAULT_EN
 
   services:
     title: "Skills"
-    text: "Lorem ipsum"
+    text: "These are the skills I bring with me, for you:"
     section: skills
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Design"
+        desc: "I do all kinds of Design."
+        icon: fas fa-wand-magic-sparkles #find more at https://fontawesome.com/icons
+      - title: "Coding"
+        desc: "I know da coding."
+        icon: fas fa-file-code"
+      - title: "Programs"
+        desc: "I've done the thing."
+        icon: fab fa-git
+      - title: "[Linking](https://en.wikipedia.org/wiki/Hyperlink)"
+        desc: "This one is a link."
+        icon: fas fa-link
 
   portfolio:
     title: "Portfolio"
