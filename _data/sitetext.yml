@@ -82,12 +82,6 @@ en: &DEFAULT_EN
     text: "Thanks for making it here!"
     body: "Info and stuff."
     section: about
-
-  team:
-    title: "It's Me"
-    text: "Thanks for making it here."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
     people:
       - name: "Claire Taylor"
         role: "Technical Designer"
@@ -95,6 +89,7 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/claire-a-taylor/
             icon: fab fa-linkedin-in
+    
 en-US:
   <<: *DEFAULT_EN
 en-CA:
