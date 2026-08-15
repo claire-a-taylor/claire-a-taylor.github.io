@@ -87,8 +87,9 @@ en: &DEFAULT_EN
         role: "Technical Designer"
         image: assets/img/team/2.jpg
         social:
-          - url: mailto:{{ site.config.email }}
+          - url: mailto:taylor.claire.a@gmail.com
             icon: fas fa-envelope
+            email-obfuscation: javascript
           - url: https://www.linkedin.com/in/claire-a-taylor/
             icon: fab fa-linkedin-in
     
