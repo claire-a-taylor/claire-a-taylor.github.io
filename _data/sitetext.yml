@@ -87,6 +87,8 @@ en: &DEFAULT_EN
         role: "Technical Designer"
         image: assets/img/team/2.jpg
         social:
+          - url: mailto:{{ site.email }}
+            icon: fas fa-envelope
           - url: https://www.linkedin.com/in/claire-a-taylor/
             icon: fab fa-linkedin-in
     
