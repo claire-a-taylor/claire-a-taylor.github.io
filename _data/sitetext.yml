@@ -85,7 +85,7 @@ en: &DEFAULT_EN
     people:
       - name: "Claire Taylor"
         role: "Technical Designer"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/NewClaire.jpg
         social:
           - url: https://www.linkedin.com/in/claire-a-taylor/
             icon: fab fa-linkedin-in
