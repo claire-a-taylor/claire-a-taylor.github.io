@@ -78,9 +78,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Me"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "It's Me"
+    text: "Thanks for making it here!"
+    body: "Info and stuff."
     section: about
 
   clients:
@@ -103,7 +103,7 @@ en: &DEFAULT_EN
 
   team:
     title: "It's Me"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: "Thanks for making it here."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
@@ -113,21 +113,6 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/claire-a-taylor/
             icon: fab fa-linkedin-in
-
-  contact:
-    title: "Contact Me"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
 
   footer:
     legal: "Privacy Policy"
