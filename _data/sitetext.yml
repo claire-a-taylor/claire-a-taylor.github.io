@@ -83,24 +83,6 @@ en: &DEFAULT_EN
     body: "Info and stuff."
     section: about
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
-
   team:
     title: "It's Me"
     text: "Thanks for making it here."
@@ -113,9 +95,6 @@ en: &DEFAULT_EN
         social:
           - url: https://www.linkedin.com/in/claire-a-taylor/
             icon: fab fa-linkedin-in
-
-  footer:
-    legal: "Privacy Policy"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
