@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-  history:
+  timeline:
     title: "Work History"
     text: "Lorem ipsum timeline"
     section: history
