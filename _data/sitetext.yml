@@ -58,43 +58,43 @@ en: &DEFAULT_EN
       - title: "Programming Teacher - <br>Digipen Institute of Technology"
         year: "2016"
         desc: "I taught a short series of summer classes to incoming students on good programming practices, as well as instruction on Digipen's C# based proprietary 'Zero Engine' and Zilch language."
-        image: assets/img/timeline/2.jpg
+        image: https://ielawgroup.net/wp-content/uploads/2017/11/DigiPen-Logo_300x300_acf_cropped.png
         alt:
         align: right
       - title: "Test Associate - <br>Microsoft via TestX Lionbridge"
         year: "2017 - 2018"
         desc: "Working on the XBOX backwards compatibility project I performed manual and automated test cases, end-to-end performance checks, and eventually took over the publishing validation process for launching new titles. "
-        image: assets/img/timeline/3.jpg
+        image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/960px-Microsoft_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
         alt:
         align: left
       - title: "Data Engineer - <br>Microsoft via DataX Lionbridge"
         year: "2018 - 2019"
         desc: "In this role I provided support to Microsoft Analytics teams by writing and deploying Scope (SQL/C#) scripts to collect data from end users and compile them into reports. The sheer volume of data required extremely creative and efficient programming."
-        image: assets/img/timeline/4.jpg
+        image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/960px-Microsoft_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
         alt:
         align: right
       - title: "Team/Project Lead - <br>Microsoft via TestX Lionbridge"
         year: "2019 - 2021"
         desc: "Returning to the backwards compatibility project as lead, I led an ever growing team of testers as we drove over 800 titles to release on multiple generations of XBOX. Trusted with the piloting on the initiative, my team and I brought it to a successful close in 2021."
-        image: assets/img/timeline/4.jpg
+        image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/960px-Microsoft_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail
         alt:
         align: left
       - title: "CSG Test Lead - <br>Bungie, Inc. via TargetCW"
         year: "2021"
         desc: "The needs of this position found me managing a rotating team of contract testers across seasonal releases. I onboarded, trained, and ran 1:1s with my team members, as well as keeping track and communicating schedules, metrics, and pain points."
-        image: assets/img/timeline/4.jpg
+        image: https://i.pinimg.com/736x/e4/e4/ec/e4e4ecad0fb98e8fc73822ff7e45e0f0.jpg
         alt:
         align: right
       - title: "QA Coordinator - <br>Bungie, Inc."
         year: "2021 - 2025"
         desc: "I supported the QA needs across the entire Destiny project. Creating automation scripts to gather info, perform repetitive tasks, and keeping documentation up to date was added alongside all my previous tasks. I had the pleasure of overseeing the feature quality of some of the most well received seasonal activities."
-        image: assets/img/timeline/4.jpg
+        image: https://i.pinimg.com/736x/e4/e4/ec/e4e4ecad0fb98e8fc73822ff7e45e0f0.jpg
         alt:
         align: left
       - title: "Technical Designer - <br>Bungie, Inc."
         year: "2025 - 2026"
         desc: "Operating at the intersection of design, coding, and art, I created mechanics and objects for players to interact with and be affected by. I also placed content inside the open world, hooked up investment rewards, and made additions and changes to legacy content. Rapid prototyping and aggressive R&D was a constant, always pushing the bounds of the engine and creating unique gameplay experiences."
-        image: assets/img/timeline/4.jpg
+        image: https://i.pinimg.com/736x/e4/e4/ec/e4e4ecad0fb98e8fc73822ff7e45e0f0.jpg
         alt:
         align: right
     end: "2026 - ???<br> The future <br> with you!"
