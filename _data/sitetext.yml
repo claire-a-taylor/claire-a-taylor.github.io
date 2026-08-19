@@ -102,7 +102,8 @@ en: &DEFAULT_EN
   about:
     title: "It's Me"
     text: "Thanks for making it here!"
-    body: "Info and stuff."
+    body: "Hello! I'm an industry experienced AAA game designer and software engineer with a background in QA. I've got 10+ years of various gaming and software industry roles. I've operated within multiple solo/small/large development teams, and taken projects through concept, brainstorming, prototyping, QA, iteration, polish, and release. I believe in robust, future facing, and extensible designs, and that games are art that can touch people's lives in unexpected ways. Creation is my greatest passion. I've been employed at Bungie and Microsoft until both their respective projects came to an end, and every role I’ve had has lent a deeper understanding and respect to the next. When I'm not at work I'm working on my personal game prototypes and projects, creating and running D&D modules, getting lost in the latest releases, and (PNW weather permitting) hiking up mountains!"
+    
     section: about
     people:
       - name: "Claire Taylor"
