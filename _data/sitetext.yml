@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
 
   services:
-    title: "<br>Skills"
+    title: "Skills"
     text: "These are the skills I bring with me, for you:"
     section: skills
     list:
@@ -37,7 +37,7 @@ en: &DEFAULT_EN
         icon: fas fa-link
 
   portfolio:
-    title: "Portfolio"
+    title: "<br>Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
