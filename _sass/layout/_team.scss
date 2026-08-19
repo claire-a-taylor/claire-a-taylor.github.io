@@ -1,6 +1,7 @@
 // Styling for the team section
 .team-member {
-  margin-bottom: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
   text-align: center;
   img {
     width: 225px;
@@ -8,27 +9,28 @@
     border: 7px solid fade-out($black, 0.9);
   }
   h4 {
-    margin-top: 5px;
-    margin-bottom: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
     text-transform: none;
   }
   p {
-    margin-top: 0;
-  }
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-transform: none;  }
 }
 
 .starter {
-  margin-bottom: 0;
-  margin-top: 0;
+  margin-bottom: 0px;
+  margin-top: 0px;
   text-align: center;
   h3 {
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
     text-transform: none;
   }
   h2 {
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 0px;
+    margin-bottom: 0px;
     text-transform: none;
   }
 }
