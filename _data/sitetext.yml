@@ -101,7 +101,7 @@ en: &DEFAULT_EN
   about:
     title: "It's Me"
     text: "Thanks for making it here!"
-    body: "<br>Hello! I'm an industry experienced AAA game designer and software engineer with a background in QA and 10+ years of experience taking projects through concept, brainstorming, prototyping, QA, iteration, polish, and release. <br>Recently at Bungie and Microsoft until their respective projects came to an end, every role I’ve had has lent a deeper understanding and respect to the next. I believe that games are art that can touch people's lives in unexpected ways, and creating those experiences is my greatest passion. I believe in robust, future facing, and extensible designs. <br>When I'm not on the clock I'm working on my personal prototypes and projects, creating and running D&D modules, getting lost in the latest game releases, and (weather permitting) hiking up mountains!"
+    body: "<br>I'm an industry experienced AAA game designer and software engineer with a background in QA, bringing 10+ years of experience taking projects through concept, brainstorming, prototyping, QA, iteration, polish, and release. <br>Recently at Bungie and Microsoft until their respective projects came to a close, every role I’ve had has lent a deeper understanding and respect to the next. <br>I believe that games are art that can touch peoples' lives in unexpected ways, and creating those experiences is my greatest passion. <br>I believe in robust, future facing, and extensible designs. <br>When I'm not on the clock I'm working on my personal prototypes and projects, creating and running D&D modules, getting lost in the latest game releases, and (weather permitting) hiking up mountains!"
     
     section: about
     people:
