@@ -49,51 +49,51 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Technology Intern - Obscura Digital"
+      - title: "Technology Intern - <br>Obscura Digital"
         year: "2013"
-        desc: ""
+        desc: "I worked on a legacy codebase for the 'Cuelight Interactive Pool Table', upgrading the software to run on more up to date architecture and have more efficient memory management. I also did some work creating new interactive projections to update existing table software with."
         image: assets/img/timeline/1.jpg
         alt:
         align: left
-      - title: "Programming Teacher - Digipen Institute of Technology"
+      - title: "Programming Teacher - <br>Digipen Institute of Technology"
         year: "2016"
-        desc: ""
+        desc: "I taught a short series of summer classes to incoming students on good programming practices, as well as instruction on Digipen's C# based proprietary 'Zero Engine' and Zilch language."
         image: assets/img/timeline/2.jpg
         alt:
         align: right
-      - title: " Test Associate - Microsoft via TestX Lionbridge"
+      - title: "Test Associate - <br>Microsoft via TestX Lionbridge"
         year: "2017 - 2018"
-        desc: ""
+        desc: "Working on the XBOX backwards compatibility project I performed manual and automated test cases, end-to-end performance checks, and eventually took over the publishing validation process for launching new titles. "
         image: assets/img/timeline/3.jpg
         alt:
         align: left
-      - title: "Data Engineer - Microsoft via DataX Lionbridge"
+      - title: "Data Engineer - <br>Microsoft via DataX Lionbridge"
         year: "2018 - 2019"
-        desc: ""
+        desc: "In this role I provided support to Microsoft Analytics teams by writing and deploying Scope (SQL/C#) scripts to collect data from end users and compile them into reports. The sheer volume of data required extremely creative and efficient programming."
         image: assets/img/timeline/4.jpg
         alt:
         align: right
-      - title: "Team/Project Lead - Microsoft via TestX Lionbridge"
+      - title: "Team/Project Lead - <br>Microsoft via TestX Lionbridge"
         year: "2019 - 2021"
-        desc: ""
+        desc: "Returning to the backwards compatibility project as lead, I led an ever growing team of testers as we drove over 800 titles to release on multiple generations of XBOX. Trusted with the piloting on the initiative, my team and I brought it to a successful close in 2021."
         image: assets/img/timeline/4.jpg
         alt:
         align: left
-      - title: "CSG Test Lead - Bungie via TargetCW"
+      - title: "CSG Test Lead - <br>Bungie, Inc. via TargetCW"
         year: "2021"
-        desc: ""
+        desc: "The needs of this position found me managing a rotating team of contract testers across seasonal releases. I onboarded, trained, and ran 1:1s with my team members, as well as keeping track and communicating schedules, metrics, and pain points."
         image: assets/img/timeline/4.jpg
         alt:
         align: right
-      - title: "QA Coordinator - Bungie"
+      - title: "QA Coordinator - <br>Bungie, Inc."
         year: "2021 - 2025"
-        desc: ""
+        desc: "I supported the QA needs across the entire Destiny project. Creating automation scripts to gather info, perform repetitive tasks, and keeping documentation up to date was added alongside all my previous tasks. I had the pleasure of overseeing the feature quality of some of the most well received seasonal activities."
         image: assets/img/timeline/4.jpg
         alt:
         align: left
-      - title: "Technical Designer - Bungie"
+      - title: "Technical Designer - <br>Bungie, Inc."
         year: "2025 - 2026"
-        desc: ""
+        desc: "Operating at the intersection of design, coding, and art, I created mechanics and objects for players to interact with and be affected by. I also placed content inside the open world, hooked up investment rewards, and made additions and changes to legacy content. Rapid prototyping and aggressive R&D was a constant, always pushing the bounds of the engine and creating unique gameplay experiences."
         image: assets/img/timeline/4.jpg
         alt:
         align: right
