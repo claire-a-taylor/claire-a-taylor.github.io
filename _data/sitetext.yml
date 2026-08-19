@@ -52,7 +52,7 @@ en: &DEFAULT_EN
       - title: "Technology Intern - <br>Obscura Digital"
         year: "2013"
         desc: "I worked on a legacy codebase for the 'Cuelight Interactive Pool Table', upgrading the software to run on more up to date architecture and have more efficient memory management. I also did some work creating new interactive projections to update existing table software with."
-        image: assets/img/timeline/1.jpg
+        image: https://media.licdn.com/dms/image/v2/C560BAQHPlheJcEURZA/company-logo_200_200/company-logo_200_200/0/1631364601890?e=2147483647&v=beta&t=_AfEq5YqPPs_nGsTisim36mTPW9XDmgjLojTHSk0QEk
         alt:
         align: left
       - title: "Programming Teacher - <br>Digipen Institute of Technology"
