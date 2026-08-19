@@ -1,6 +1,6 @@
 ---
 title: Destiny 2
-subtitle: 'Strange Signal Chest' VFX hookups
+subtitle: "'Strange Signal Chest' VFX hookups"
 image: https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889
 alt: alt text
 
