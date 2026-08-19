@@ -20,12 +20,12 @@
           <div class="col-lg-8 mx-auto">
             <div class="modal-body">
               <!-- Project Details Go Here -->
-              <h2 class="text-uppercase">{{ project.title }}</h2>
-              <p class="item-intro text-muted">{{ project.subtitle }}</p>
+              <h2 class="text-uppercase">{{ project.entry.title }}</h2>
+              <p class="item-intro text-muted">{{ project.entry.subtitle }}</p>
               <img
                 class="img-fluid d-block mx-auto"
-                src="{{ project.image }}"
-                alt="{{ project.alt }}"
+                src="{{ project.entry.image }}"
+                alt="{{ project.entry.alt }}"
               />
               <p>{{ project.content }}</p>
               <button
@@ -64,12 +64,12 @@
           <div class="col-lg-8 mx-auto">
             <div class="modal-body">
               <!-- Project Details Go Here -->
-              <h2 class="text-uppercase">{{ project.title }}</h2>
-              <p class="item-intro text-muted">{{ project.subtitle }}</p>
+              <h2 class="text-uppercase">{{ project.entry.title }}</h2>
+              <p class="item-intro text-muted">{{ project.entry.subtitle }}</p>
               <img
                 class="img-fluid d-block mx-auto"
-                src="{{ project.image }}"
-                alt="{{ project.alt }}"
+                src="{{ project.entry.image }}"
+                alt="{{ project.entry.alt }}"
               />
               <p>{{ project.content }}</p>
               <button
