@@ -11,12 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Skills"
-      section: skills
     - title: "Portfolio"
       section: portfolio
     - title: "About"
       section: about
+    - title: "Skills"
+      section: skills
     - title: "History"
       section: history
 
