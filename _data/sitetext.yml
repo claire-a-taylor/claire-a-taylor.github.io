@@ -49,7 +49,7 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-    - title: "Technical Designer - <br>Bungie, Inc."
+      - title: "Technical Designer - <br>Bungie, Inc."
         year: "2025 - 2026"
         desc: "Operating at the intersection of design, coding, and art, I created mechanics and objects for players to interact with and be affected by. I also placed content inside the open world, hooked up investment rewards, and made additions and changes to legacy content. Rapid prototyping and aggressive R&D was a constant, always pushing the bounds of the engine and creating unique gameplay experiences."
         image: https://i.pinimg.com/736x/e4/e4/ec/e4e4ecad0fb98e8fc73822ff7e45e0f0.jpg
@@ -97,7 +97,7 @@ en: &DEFAULT_EN
         image: https://media.licdn.com/dms/image/v2/C560BAQHPlheJcEURZA/company-logo_200_200/company-logo_200_200/0/1631364601890?e=2147483647&v=beta&t=_AfEq5YqPPs_nGsTisim36mTPW9XDmgjLojTHSk0QEk
         alt:
         align: right
-    end:
+    end: ""
 
   about:
     title: "It's Me"
