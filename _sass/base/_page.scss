@@ -5,7 +5,7 @@ body {
 }
 
 p {
-  line-height: 1.75;
+  line-height: .75;
 }
 
 a {
@@ -30,17 +30,17 @@ h6 {
 }
 
 .page-section {
-  padding: 100px 0;
+  padding: 50 0;
   h2.section-heading {
     font-size: 40px;
     margin-top: 0;
-    margin-bottom: 15px;
+    margin-bottom: 0;
   }
   h3.section-subheading {
     font-size: 16px;
     font-weight: 400;
     font-style: italic;
-    margin-bottom: 75px;
+    margin-bottom: 0;
     text-transform: none;
     @include serif-font;
   }
