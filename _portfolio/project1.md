@@ -1,8 +1,8 @@
 ---
 title: Destiny 2
 subtitle: "Strange Signal Chest" VFX hookups
-image:
-alt:
+image: x
+alt: x
 
 caption:
   title: Destiny 2
