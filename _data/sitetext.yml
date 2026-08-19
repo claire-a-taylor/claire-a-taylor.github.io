@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
 
   services:
-    title: "<br><br><br>Skills"
+    title: "<br>Skills"
     text: "These are the skills I bring with me, for you:"
     section: skills
     list:
@@ -102,7 +102,7 @@ en: &DEFAULT_EN
   about:
     title: "It's Me"
     text: "Thanks for making it here!"
-    body: "<br><br>Hello! I'm an industry experienced AAA game designer and software engineer with a background in QA. <br>I've got 10+ years of various gaming and software industry roles. I've operated within multiple solo/small/large development teams, and taken projects through concept, brainstorming, prototyping, QA, iteration, polish, and release. <br>I believe in robust, future facing, and extensible designs, and that games are art that can touch people's lives in unexpected ways. Creation is my greatest passion. <br>I've been employed at Bungie and Microsoft until both the respective projects I was on came to an end, and every role I’ve had has lent a deeper understanding and respect to the next. <br>When I'm not at work I'm working on my personal game prototypes and projects, creating and running D&D modules, getting lost in the latest releases, and (PNW weather permitting) hiking up mountains!"
+    body: "<br>Hello! I'm an industry experienced AAA game designer and software engineer with a background in QA. <br>I've got 10+ years of various gaming and software industry roles. I've operated within multiple solo/small/large development teams, and taken projects through concept, brainstorming, prototyping, QA, iteration, polish, and release. <br>I believe in robust, future facing, and extensible designs, and that games are art that can touch people's lives in unexpected ways. Creation is my greatest passion. <br>I've been employed at Bungie and Microsoft until both the respective projects I was on came to an end, and every role I’ve had has lent a deeper understanding and respect to the next. <br>When I'm not at work I'm working on my personal game prototypes and projects, creating and running D&D modules, getting lost in the latest releases, and (PNW weather permitting) hiking up mountains!"
     
     section: about
     people:
