@@ -27,7 +27,7 @@
               <h2 class="text-uppercase">{{ project.entry.title }}</h2>
               <p class="item-intro text-muted">{{ project.entry.subtitle }}</p>
               <p>{{ project.entry.video }}</p>
-              <p>{{ project.entry.text }}</p>
+              <p>{{ site.data.navigation[site.locale].entry.text | default: 'text' }}</p>
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
