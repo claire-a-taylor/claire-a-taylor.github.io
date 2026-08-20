@@ -75,7 +75,7 @@
     position: absolute;
     margin: 1rem;
     max-width: 75vw;
-    background-color: #273CF5;
+    color: #273CF5;
   }
   .modal-content {
     padding: 50px 0;
@@ -86,9 +86,6 @@
     }
     p {
       margin-bottom: 30px;
-    }
-    .modal.backdrop {
-      background-color: #FF0000;
     }
     p.item-intro {
       font-size: 16px;
