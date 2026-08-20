@@ -25,9 +25,11 @@
                 alt="{{ project.entry.alt }}"
               />
               <h2 class="text-uppercase">{{ project.entry.title }}</h2>
-              <p class="item-intro text-muted">{{ project.entry.subtitle }}</p>
-              <p>{{ project.entry.video }}</p>
-              <p>{{ project.entry.text }}</p>
+              {% for test in project.entry %}
+              <p class="item-intro text-muted">{{ test.subtitle }}</p>
+              <p>{{ test.video }}</p>
+              <p>{{ test.text }}</p>
+              {% endfor %}
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
