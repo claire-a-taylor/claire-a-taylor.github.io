@@ -2,7 +2,7 @@
 caption:
   title: Student Projects
   subtitle: Academic Work
-  thumbnail: https://d3hk6w1rfu80ox.cloudfront.net/media/uploads/listings/n5XLmrKJpG00.png
+  thumbnail: /assets/img/portfolio/DPLogo.png
   
 entry1:
   subtitle: Driving world state changes from player investment states
