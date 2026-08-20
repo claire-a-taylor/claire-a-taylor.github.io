@@ -72,14 +72,15 @@
 
 .portfolio-modal {
   .modal-dialog {
-    position: absolute;
+    position: center;
     margin: 1rem;
     max-width: 75vw;
-    color: #273CF5;
+    background-color: #273CF5;
   }
   .modal-content {
     padding: 50px 0;
     text-align: center;
+    background-color: #273CF5;
     h2 {
       font-size: 3em;
       margin-bottom: 15px;
