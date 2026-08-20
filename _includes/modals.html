@@ -34,7 +34,9 @@
               <p class="item-intro text-muted">{{ project.entry3.subtitle }}</p>
               <p>{{ project.entry3.video }}</p>
               <p>{{ project.entry3.text }}</p>
+              {% if project.entry3.subtitle %}
               <div id="line"><hr /></div>
+              {% endif %}
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
