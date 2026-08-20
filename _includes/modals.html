@@ -25,11 +25,11 @@
                 alt="{{ project.entry.alt }}"
               />
               <h2 class="text-uppercase">{{ project.entry.title }}</h2>
-              {% for test in site.data.entries[site.locale].entries.list %}
-              <p class="item-intro text-muted">{{ test.subtitle}}</p>
-              <p>{{ test.video }}</p>
-              <p>{{ test.text }}</p>
-              {% endfor %}
+              <!--{% for test in site.data.entries[site.locale].entries.list %}-->
+              <p class="item-intro text-muted">{{ site.data.entries[site.locale].entries.list.subtitle }}</p>
+              <p>{{ site.data.entries[site.locale].entries.list.video }}</p>
+              <p>{{ site.data.entries[site.locale].entries.list.text }}</p>
+              <!--{% endfor %}-->
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
