@@ -26,9 +26,8 @@
               />
               <h2 class="text-uppercase">{{ project.entry.title }}</h2>
               <!--{% for test in site.data.entries[site.locale].entries.list %}-->
-              <p class="item-intro text-muted">{{ site.data.entries[site.locale].entries.subtitle | default: 'text' }}</p>
-              <p>{{ site.data.entries[site.locale].entries.video | default: 'text' }}</p>
-              <p>{{ site.data.entries[site.locale].entries.text | default: 'text' }}</p>
+              <p class="item-intro text-muted">{{ site.data.navigation[site.locale].nav.title | default: 'text' }}</p>
+              <p>{{ site.data.navigation[site.locale].nav.section | default: 'text' }}</p>
               <!--{% endfor %}-->
               <!--<p class="item-intro text-muted">{{ project.entry.subtitle }}</p>
               <p>{{ project.entry.video }}</p>
