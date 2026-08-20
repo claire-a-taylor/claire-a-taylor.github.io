@@ -6,7 +6,7 @@ caption:
   
 entry1:
   subtitle: Driving world state changes from player investment states
-  video: <iframe width="720" height="480" src="https://www.youtube.com/embed/aDTHrTOrw1s" title="Destiny 2 Evolving Worldstate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  video: <iframe width="100%" height="100%" src="https://www.youtube.com/embed/aDTHrTOrw1s" title="Destiny 2 Evolving Worldstate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   text: I'm describing this thing I did and, frankly, it's the most amazing thing you've ever seen. The subtleties and implied meaning and lore behind it are mindblowing, and you really can't think of anything else except how to get me on your team ASAP. <br>I understand, I'm amazing.
 
 entry2:
