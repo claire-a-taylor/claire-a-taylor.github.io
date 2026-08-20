@@ -23,18 +23,52 @@
                 class="img-fluid d-block mx-auto"
                 src="{{ project.caption.thumbnail }}"
               />
+              {% if project.entry1.subtitle %}
               <p class="item-intro text-muted">{{ project.entry1.subtitle }}</p>
               <p>{{ project.entry1.video }}</p>
               <p>{{ project.entry1.text }}</p>
               <div id="line"><hr /></div>
+              {% endif %}
+              {% if project.entry2.subtitle %}
               <p class="item-intro text-muted">{{ project.entry2.subtitle }}</p>
               <p>{{ project.entry2.video }}</p>
               <p>{{ project.entry2.text }}</p>
               <div id="line"><hr /></div>
+              {% endif %}
+              {% if project.entry3.subtitle %}
               <p class="item-intro text-muted">{{ project.entry3.subtitle }}</p>
               <p>{{ project.entry3.video }}</p>
               <p>{{ project.entry3.text }}</p>
-              {% if project.entry3.subtitle %}
+              <div id="line"><hr /></div>
+              {% endif %}
+              {% if project.entry4.subtitle %}
+              <p class="item-intro text-muted">{{ project.entry4.subtitle }}</p>
+              <p>{{ project.entry4.video }}</p>
+              <p>{{ project.entry4.text }}</p>
+              <div id="line"><hr /></div>
+              {% endif %}
+              {% if project.entry5.subtitle %}
+              <p class="item-intro text-muted">{{ project.entry5.subtitle }}</p>
+              <p>{{ project.entry5.video }}</p>
+              <p>{{ project.entry5.text }}</p>
+              <div id="line"><hr /></div>
+              {% endif %}
+              {% if project.entry6.subtitle %}
+              <p class="item-intro text-muted">{{ project.entry6.subtitle }}</p>
+              <p>{{ project.entry6.video }}</p>
+              <p>{{ project.entry6.text }}</p>
+              <div id="line"><hr /></div>
+              {% endif %}
+              {% if project.entry7.subtitle %}
+              <p class="item-intro text-muted">{{ project.entry7.subtitle }}</p>
+              <p>{{ project.entry7.video }}</p>
+              <p>{{ project.entry7.text }}</p>
+              <div id="line"><hr /></div>
+              {% endif %}
+              {% if project.entry8.subtitle %}
+              <p class="item-intro text-muted">{{ project.entry8.subtitle }}</p>
+              <p>{{ project.entry8.video }}</p>
+              <p>{{ project.entry8.text }}</p>
               <div id="line"><hr /></div>
               {% endif %}
               <button
