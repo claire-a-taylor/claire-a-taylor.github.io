@@ -16,6 +16,6 @@ entry2:
 
 entry3: 
   subtitle: Interact object with specific interaction requirements
-  video: <iframe src="https://drive.google.com/file/d/1M-90ZLkdQIXNPQUrRTdPRXObcHnsiHq0/view?usp=drive_link" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
+  video: <iframe src="https://drive.google.com/file/d/1M-90ZLkdQIXNPQUrRTdPRXObcHnsiHq0/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
   text: I'm describing this thing I did and, frankly, it's the most amazing thing you've ever seen. The subtleties and implied meaning and lore behind it are mindblowing, and you really can't think of anything else except how to get me on your team ASAP. <br>I understand, I'm amazing.
 ---
