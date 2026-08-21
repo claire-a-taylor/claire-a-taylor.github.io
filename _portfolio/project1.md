@@ -6,7 +6,7 @@ caption:
   
 entry1:
   subtitle: Driving world state changes from player investment states
-  video: <iframe width="720" height="480" src="https://www.youtube.com/embed/aDTHrTOrw1s" allowfullscreen></iframe>
+  video: <iframe width="720" height="480" src="https://www.youtube.com/embed/aDTHrTOrw1s" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
   text: This central courtyard if the main social hub in Destiny 2 was created with multiple states for the final release. When a player loads into the Tower or changes their investment state for in-game Triumphs in particular categories, their local instance of the courtyard updates to reflect their progress. This change was interesting to engineer, because despite being visible to every player, they all had different investment states and needed to see the proper world state for them personally. This meant that the change could not occur on the world server itself, and also needed to be able to update dynamically on the fly. Luckily, players had to be in their menu to claim the Triumphs, so there was a brief moment to allow the state change to occur beyond the player's sight.
 
 entry2:
