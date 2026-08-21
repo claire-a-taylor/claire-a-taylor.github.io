@@ -6,16 +6,16 @@ caption:
   
 entry1:
   subtitle: Interact object that enforces altered gameplay
-  video: <iframe src="https://drive.google.com/file/d/1UUzeHHbFkc3oL30xu1G82gQEsRWX_rwb/preview" width="720" height="480" allowfullscreen></iframe>
+  video: <iframe src="https://drive.google.com/file/d/1j3aMAwWxfJOljIFKlhnLHX27SREbINS7/preview" width="720" height="480" allowfullscreen></iframe>
   text: I'm describing this thing I did and, frankly, it's the most amazing thing you've ever seen. The subtleties and implied meaning and lore behind it are mindblowing, and you really can't think of anything else except how to get me on your team ASAP. <br>I understand, I'm amazing.
 
 entry2:
   subtitle: Interact objects that force player reactions/states
-  video: <iframe width="720" height="480" src="https://www.youtube.com/embed/NKNTYOo7XgA" allowfullscreen></iframe>
+  video: <iframe src="https://drive.google.com/file/d/1RgAWHq90nwUK_EJdvtE5WStiJw4FifGP/preview" width="720" height="480" allowfullscreen></iframe>
   text: I'm describing this thing I did and, frankly, it's the most amazing thing you've ever seen. The subtleties and implied meaning and lore behind it are mindblowing, and you really can't think of anything else except how to get me on your team ASAP. <br>I understand, I'm amazing.
 
 entry3: 
   subtitle: Interact object with specific interaction requirements
-  video: <iframe width="720" height="480" src="https://www.youtube.com/embed/VZGykuuyK8k" allowfullscreen></iframe>
+  video: <iframe src="https://drive.google.com/file/d/1M-90ZLkdQIXNPQUrRTdPRXObcHnsiHq0/view?usp=drive_link" width="720" height="480" allowfullscreen></iframe>
   text: I'm describing this thing I did and, frankly, it's the most amazing thing you've ever seen. The subtleties and implied meaning and lore behind it are mindblowing, and you really can't think of anything else except how to get me on your team ASAP. <br>I understand, I'm amazing.
 ---
