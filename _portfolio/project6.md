@@ -5,7 +5,7 @@ caption:
   thumbnail: /assets/img/portfolio/DPLogo.png
   
 entry1:
-  subtitle: Novae: Stellar Escape
+  subtitle: "Novae: Stellar Escape"
   video: <iframe src="https://drive.google.com/file/d/136NnR5fnk9Xe-MsbwFzlE7Y3iaaQrO4C/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
   text: I'm describing this thing I did and, frankly, it's the most amazing thing you've ever seen. The subtleties and implied meaning and lore behind it are mindblowing, and you really can't think of anything else except how to get me on your team ASAP. <br>I understand, I'm amazing.
 
