@@ -11,7 +11,7 @@ entry1:
 
 entry2:
   subtitle: Driving player investment state from collectibles and actions
-  video: <iframe src="https://drive.google.com/file/d/1dICWYsKYewGzbutbsslZ6cVsSj1vdgkg/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
+  video: <iframe src="https://drive.google.com/file/d/1dICWYsKYewGzbutbsslZ6cVsSj1vdgkg/preview" width="100%" height="100%" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
   text: When collecting items in Destiny 2, there needed to be a series of hookups between completing the interact prompt and actually producing the desired results. In this instance, I needed to make the item's interact function broadcast an incident to the server, which then pinged back to the audience specified in the incident (in this case, only the interacting player). I set the incident data up to activate a reward mapping site when it is received by the local player, configured to display the correct information in the loot stream for player feedback and also to flip an unlock expression on the player's investment state. Doing this allowed me to grant them a Triumph completion after interacting with the collectible. Using these hooks was incredibly powerful but could also bog down the server if too many incidents were firing to quickly, so I had to often use them in clever ways.
 
 entry3: 
