@@ -21,16 +21,16 @@ en: &DEFAULT_EN
         desc: <ul><li>Systems/Mechanics</li><li>Economy/Balancing</li><li>Level/Activity</li><li>Worldbuilding/Lore</li><li>Quests/Progression</li></ul>
         icon: fas fa-icons #find more at https://fontawesome.com/icons
       - title: "Coding"
-        desc: <ul><li>C++</li><li>C#</li><li>Java</li><li>SQL</li><li>LINQ</li><li>Proprietary Scripting</li></ul>
-        icon: fas fa-square-binary
+        desc: <ul><li>C++</li><li>C#</li><li>SQL</li><li>LINQ</li><li>Proprietary Scripting</li></ul>
+        icon: fas fa-terminal
       - title: "Programs"
-        desc: <ul><li>Unreal Engine</li><li>Unity</li><li>Visual Studio</li><li>Perforce</li><li>JIRA</li><li>MS Office Suite</li><li>Proprietary Engines</li></ul>
+        desc: <ul><li>Unreal Engine</li><li>Visual Studio</li><li>Perforce</li><li>JIRA</li><li>Proprietary Engines</li></ul>
         icon: fas fa-keyboard
       - title: "Technical Skills"
-        desc: <ul><li>Rapid Prototyping</li><li>Root-Cause Analysis</li><li></li><li></li><li>Documentation</li></ul>
+        desc: <ul><li>Rapid Prototyping</li><li>Root-Cause Analysis</li><li>Code-Base /Extending</li><li></li><li>Documentation</li></ul>
         icon: fas fa-microchip
       - title: "Soft Skills"
-        desc: <ul><li>Adaptability</li><li>Onboarding/Training/Mentoring</li><li>Collaboration</li><li>Timeboxing</li><li></li></ul>
+        desc: <ul><li>Adaptability</li><li>Onboarding/Training/Mentoring</li><li>Collaboration</li><li>Timeboxing</li><li>Humble Ambition</li></ul>
         icon: fas fa-comments
       - title: "Limited/Leanring"
         desc: <ul><li>3dsMax</li><li>Maya</li><li>Unreal GAS</li><li>Texturing/Shaders</li><li>Rigging</li></ul>
