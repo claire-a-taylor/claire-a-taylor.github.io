@@ -14,20 +14,20 @@ en: &DEFAULT_EN
 
   services:
     title: "Skills"
-    text: "These are the skills I bring with me, for you:"
+    text: "These are the skills I bring with me, for you (unordered):"
     section: skills
     list:
       - title: "Design"
         desc: <ul><li>Systems/Mechanics</li><li>Economy/Balancing</li><li>Level/Activity</li><li>Worldbuilding/Lore</li><li>Quests/Progression</li></ul>
         icon: fas fa-icons #find more at https://fontawesome.com/icons
       - title: "Coding"
-        desc: <ul><li>C++</li><li>C#</li><li>SQL</li><li>LINQ</li><li>Proprietary Scripting</li></ul>
+        desc: <ul><li>C++</li><li>C#</li><li>SQL</li><li>Blueprints</li><li>Proprietary Scripting</li></ul>
         icon: fas fa-terminal
       - title: "Programs"
         desc: <ul><li>Unreal Engine</li><li>Visual Studio</li><li>Perforce</li><li>JIRA</li><li>Proprietary Engines</li></ul>
         icon: fas fa-keyboard
       - title: "Technical Skills"
-        desc: <ul><li>Rapid Prototyping</li><li>Root-Cause Analysis</li><li>Code-Base /Extending</li><li></li><li>Documentation</li></ul>
+        desc: <ul><li>Rapid Prototyping/Iteration</li><li>Root-Cause Analysis</li><li>Code-Base Adapting/Extending</li><li>Automation</li><li>Documentation</li></ul>
         icon: fas fa-microchip
       - title: "Soft Skills"
         desc: <ul><li>Adaptability</li><li>Onboarding/Training/Mentoring</li><li>Collaboration</li><li>Timeboxing</li><li>Humble Ambition</li></ul>
