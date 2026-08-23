@@ -21,7 +21,7 @@ en: &DEFAULT_EN
         desc: "I do all kinds of Design."
         icon: fas fa-icons #find more at https://fontawesome.com/icons
       - title: "Coding"
-        desc: "I know da coding."
+        desc: <ul><li>"I know da coding."</li><li>"I'm good at it.</li></ul>
         icon: fas fa-code"
       - title: "Programs"
         desc: "I've done the thing."
