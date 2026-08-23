@@ -18,23 +18,23 @@ en: &DEFAULT_EN
     section: skills
     list:
       - title: "Design"
-        desc: "I do all kinds of Design."
+        desc: <ul><li>Systems/Mechanics</li><li>Economy/Balancing</li><li>Level/Activity</li><li>Worldbuilding/Lore</li><li>Quests/Progression</li></ul>
         icon: fas fa-icons #find more at https://fontawesome.com/icons
       - title: "Coding"
-        desc: <ul><li>"I know da coding."</li><li>"I'm good at it.</li></ul>
-        icon: fas fa-code"
+        desc: <ul><li>C++</li><li>C#</li><li>Java</li><li>SQL</li><li>LINQ</li><li>Proprietary Scripting</li></ul>
+        icon: fas fa-square-binary
       - title: "Programs"
-        desc: "I've done the thing."
+        desc: <ul><li>Unreal Engine</li><li>Unity</li><li>Visual Studio</li><li>Perforce</li><li>JIRA</li><li>MS Office Suite</li><li>Proprietary Engines</li></ul>
         icon: fas fa-keyboard
-      - title: "Something Else"
-        desc: "This is important."
-        icon: fas fa-computer
-      - title: "Another thing"
-        desc: "Ignore this."
-        icon: fas fa-poo
-      - title: "[Linking](https://en.wikipedia.org/wiki/Hyperlink)"
-        desc: "This one is a link."
-        icon: fas fa-link
+      - title: "Technical Skills"
+        desc: <ul><li>Rapid Prototyping</li><li>Root-Cause Analysis</li><li></li><li></li><li>Documentation</li></ul>
+        icon: fas fa-microchip
+      - title: "Soft Skills"
+        desc: <ul><li>Adaptability</li><li>Onboarding/Training/Mentoring</li><li>Collaboration</li><li>Timeboxing</li><li></li></ul>
+        icon: fas fa-comments
+      - title: "Limited/Leanring"
+        desc: <ul><li>3dsMax</li><li>Maya</li><li>Unreal GAS</li><li>Texturing/Shaders</li><li>Rigging</li></ul>
+        icon: fas fa-book
 
   portfolio:
     title: "<br>Portfolio"
