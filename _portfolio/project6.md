@@ -11,12 +11,12 @@ entry1:
 
 entry2:
   subtitle: Super Robot League 1992
-  video: <iframe src="" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
+  video: <iframe src="https://drive.google.com/file/d/1UPVd_3BYKIq4BZm34UEVqwlRgjEE2zL3/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
   text: For this project, I took the roles of Producer and Lead Programmer. My team used Digipen's Zero Engine and Zilch programming language, which is heavily based on C#. The concept behind this game was to make a small, self contained gameplay loop that was easy to learn buy became complex when faced with another human player. One of my biggest wins in this project was my creation of a dialogue system from scratch that could dynamically respond to the input it was given and output without having to put in various hard coded adaptations, and also had a fairly large customization range in terms of output look and feel. Acting as a Producer on this project also gave me a deep respect for the work that industry producers do, as even tracking the timeline of a small student project and keeping everyone on track took some effort.
 
 entry3:
   subtitle: Analogue Overload
-  video: <iframe src="" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
+  video: <iframe src="https://drive.google.com/file/d/1UASlxpq2KkZ5KBy6DBLHFH9T4QRbC40v/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
   text: For this project, I took the roles of Lead Design and Lead Programmer. My team used Digipen's Zero Engine and Zilch programming language, which is heavily based on C#. The concept behind this game was to make a asymmetrical PvP game where one player plays as a game boss, and 1 to 4 players play as much smaller fighters trying to defeat them. The biggest challenge of this project was shockingly not a software one, but a hardware one. I found myself having to solve for many issues like how to allow up to 5 players to play on a non-networked game, and how to circumvent key rollover/ghosting on school equipment. The hardware limitations also ended up highlighting the need for accessibility options, and how difficult it can be when players are forced to deal with inflexible restrictions in games.
   
 entry4:
