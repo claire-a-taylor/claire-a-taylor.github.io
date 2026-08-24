@@ -32,7 +32,9 @@
                 <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
               </div>
               <p class="item-text">{{ project.entry1.text }}</p>
-              <div id="line"><hr /></div>
+                {% if project.entry1.subtitle != 'CONTINUED' %}
+                  <div id="line"><hr /></div>                
+                {% endif %}
               {% endif %}
               {% if project.entry2.subtitle %}
                 {% if project.entry2.subtitle != 'CONTINUED' %}
@@ -43,7 +45,9 @@
                 <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
               </div>
               <p class="item-text">{{ project.entry2.text }}</p>
-              <div id="line"><hr /></div>
+                {% if project.entry2.subtitle != 'CONTINUED' %}
+                  <div id="line"><hr /></div>                
+                {% endif %}
               {% endif %}
               {% if project.entry3.subtitle %}
                 {% if project.entry3.subtitle != 'CONTINUED' %}
@@ -54,8 +58,10 @@
                 <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
               </div>
               <p class="item-text">{{ project.entry3.text }}</p>
-              <div id="line"><hr /></div>
-              {% endif %}
+                {% if project.entry3.subtitle != 'CONTINUED' %}
+                  <div id="line"><hr /></div>                
+                {% endif %}
+               {% endif %}
               {% if project.entry4.subtitle %}
                 {% if project.entry4.subtitle != 'CONTINUED' %}
                   <p class="item-intro text-muted">{{ project.entry4.subtitle }}</p>
@@ -65,8 +71,10 @@
                 <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
               </div>
               <p class="item-text">{{ project.entry4.text }}</p>
-              <div id="line"><hr /></div>
-              {% endif %}
+                {% if project.entry4.subtitle != 'CONTINUED' %}
+                  <div id="line"><hr /></div>                
+                {% endif %}
+               {% endif %}
               {% if project.entry5.subtitle %}
                 {% if project.entry5.subtitle != 'CONTINUED' %}
                   <p class="item-intro text-muted">{{ project.entry5.subtitle }}</p>
@@ -76,8 +84,10 @@
                 <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
               </div>
               <p class="item-text">{{ project.entry5.text }}</p>
-              <div id="line"><hr /></div>
-              {% endif %}
+                {% if project.entry5.subtitle != 'CONTINUED' %}
+                  <div id="line"><hr /></div>                
+                {% endif %}
+               {% endif %}
               {% if project.entry6.subtitle %}
                 {% if project.entry6.subtitle != 'CONTINUED' %}
                   <p class="item-intro text-muted">{{ project.entry6.subtitle }}</p>
@@ -87,8 +97,10 @@
                 <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
               </div>
               <p class="item-text">{{ project.entry6.text }}</p>
-              <div id="line"><hr /></div>
-              {% endif %}
+                {% if project.entry6.subtitle != 'CONTINUED' %}
+                  <div id="line"><hr /></div>                
+                {% endif %}
+               {% endif %}
               {% if project.entry7.subtitle %}
                 {% if project.entry7.subtitle != 'CONTINUED' %}
                   <p class="item-intro text-muted">{{ project.entry7.subtitle }}</p>
@@ -98,8 +110,10 @@
                 <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
               </div>
               <p class="item-text">{{ project.entry7.text }}</p>
-              <div id="line"><hr /></div>
-              {% endif %}
+                {% if project.entry7.subtitle != 'CONTINUED' %}
+                  <div id="line"><hr /></div>                
+                {% endif %}
+               {% endif %}
               {% if project.entry8.subtitle %}
                 {% if project.entry8.subtitle != 'CONTINUED' %}
                   <p class="item-intro text-muted">{{ project.entry8.subtitle }}</p>
@@ -109,8 +123,10 @@
                 <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
               </div>
               <p class="item-text">{{ project.entry8.text }}</p>
-              <div id="line"><hr /></div>
-              {% endif %}
+                {% if project.entry8.subtitle != 'CONTINUED' %}
+                  <div id="line"><hr /></div>                
+                {% endif %}
+               {% endif %}
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
