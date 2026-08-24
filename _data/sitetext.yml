@@ -14,7 +14,7 @@ en: &DEFAULT_EN
 
   services:
     title: "Skills"
-    text: "These are the skills I bring with me, for you (unordered):"
+    text: "These are the skills I bring with me, for you:"
     section: skills
     list:
       - title: "Design"
