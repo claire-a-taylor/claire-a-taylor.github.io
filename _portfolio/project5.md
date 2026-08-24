@@ -10,9 +10,11 @@ entry1:
   text: The camera stuff
 
 entry2:
+  subtitle: CONTINUED
   video: <iframe src="https://drive.google.com/file/d/1-SUxI0C7LGH83tBEWEHbjs0-4Q_Ny6p-/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
   text: The systems
 
 entry3:
+  subtitle: CONTINUED
   text: The breakdown
 ---
