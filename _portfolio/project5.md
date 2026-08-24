@@ -6,6 +6,13 @@ caption:
   
 entry1:
   subtitle: UNDER CONSTRUCTION
-  video: <iframe src="https://www.youtube.com/embed/aDTHrTOrw1s" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
-  text: UNDER CONSTRUCTION
+  video: <iframe src="https://drive.google.com/file/d/1kHsYyHkj4Ij8iK9lUlaotpGSZxSFqj6_/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
+  text: The camera stuff
+
+entry2:
+  video: <iframe src="https://drive.google.com/file/d/1-SUxI0C7LGH83tBEWEHbjs0-4Q_Ny6p-/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
+  text: The systems
+
+entry3:
+  text: The breakdown
 ---
