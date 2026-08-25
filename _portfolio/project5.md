@@ -10,7 +10,7 @@ entry1:
 
 entry2:
   subtitle: CONTINUED
-  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/ViewMover.JPG" /></label></div>
+  video: <div class="click-zoom mx-auto"><label><input type='checkbox' /><img src="/assets/img/portfolio/ViewMover.JPG" /></label></div>
   text: View Mover
 
 entry3:
@@ -25,7 +25,7 @@ entry4:
 
 entry5:
   subtitle: CONTINUED
-  video: <iframe src="https://drive.google.com/file/d/1kHsYyHkj4Ij8iK9lUlaotpGSZxSFqj6_/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
+  video: <iframe class="mx-auto" src="https://drive.google.com/file/d/1kHsYyHkj4Ij8iK9lUlaotpGSZxSFqj6_/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
   text: Camera
 
 entry6:
