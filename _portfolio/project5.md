@@ -16,42 +16,49 @@ entry2:
 
 entry3:
   subtitle: CONTINUED
-  image: <img src="/assets/img/portfolio/MovementData.JPG" />
+  image: <img src="/assets/img/portfolio/MovementData.JPG"></img>
   video:
   text: Movement Data
   
 entry4:
   subtitle: CONTINUED
-  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/ExposeQuat.JPG" /></label></div>
+  image: <img src="/assets/img/portfolio/ExposeQuat.JPG"></img>
+  video:
   text: 
 
 entry5:
   subtitle: CONTINUED
+  image:
   video: <iframe src="https://drive.google.com/file/d/1kHsYyHkj4Ij8iK9lUlaotpGSZxSFqj6_/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
   text: Camera
 
 entry6:
   subtitle: CONTINUED
-  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/EnemyMovement.JPG" /></label></div>
+  image: <img src="/assets/img/portfolio/EnemyMovement.JPG"></img>
+  video:
   text: Enemies
 
 entry7:
   subtitle: CONTINUED
-  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/ModePulse.JPG" /></label></div>
+  image: <input type='checkbox' /><img src="/assets/img/portfolio/ModePulse.JPG"></img>
+  video:
   text:
   
 entry8:
   subtitle: CONTINUED
-  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/FormV.JPG" /></label></div>
+  image: <img src="/assets/img/portfolio/FormV.JPG"></img>
+  video:
   text:
 
 entry9:
   subtitle: CONTINUED
-  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/EnemyAttack.JPG" /></label></div>
+  image: <img src="/assets/img/portfolio/EnemyAttack.JPG"></img>
+  video:
   text: Weapon Macros
 
 entry10:
   subtitle: CONTINUED
+  image:
   video: <iframe src="https://drive.google.com/file/d/1-SUxI0C7LGH83tBEWEHbjs0-4Q_Ny6p-/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
   text: Current Progress
 ---
