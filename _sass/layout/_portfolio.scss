@@ -71,6 +71,11 @@
 }
 
 .portfolio-modal {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  
   .modal-dialog {
     margin: 1rem;
     max-width: 80vw;
