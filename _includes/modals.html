@@ -33,7 +33,8 @@
                     <p>{{ project.entry1.image }}</p>
                   </label>
                 </div>
-              {% elseif project.entry1.video %}
+              {% endif %}
+              {% if project.entry1.video %}
                 <div style="width: 100%; height: 100%; position: relative;">
                   <p>{{ project.entry1.video }}</p>
                   <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
@@ -48,10 +49,19 @@
                 {% if project.entry2.subtitle != 'CONTINUED' %}
                   <p class="item-intro text-muted">{{ project.entry2.subtitle }}</p>
                 {% endif %}
-              <div style="width: 720px; height: 480px; position: relative;">
-                <p>{{ project.entry2.video }}</p>
-                <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
-              </div>
+              {% if project.entry2.image %}
+                <div class="click-zoom" width="100%" height="100%">
+                  <label><input type='checkbox' />
+                    <p>{{ project.entry2.image }}</p>
+                  </label>
+                </div>
+              {% endif %}
+              {% if project.entry2.video %}
+                <div style="width: 100%; height: 100%; position: relative;">
+                  <p>{{ project.entry2.video }}</p>
+                  <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
+                </div>
+              {% endif %}
               <p class="item-text">{{ project.entry2.text }}</p>
                 {% if project.entry3.subtitle != 'CONTINUED' %}
                   <div id="line"><hr /></div>                
