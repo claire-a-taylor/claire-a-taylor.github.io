@@ -72,8 +72,8 @@
 
 .portfolio-modal {
   .modal-dialog {
-    //margin: 0 auto;
-    max-width: 50vw;
+    margin: 0 auto;
+    max-width: 70vw;
     background-color: #000000;
   }
 
@@ -148,7 +148,7 @@
       z-index: 1051;
       width: 1px;
       height: 75px;
-      margin-left: 35px;
+      //margin-left: 35px;
       /* IE 9 */
       -webkit-transform: rotate(45deg);
       -ms-transform: rotate(45deg);
