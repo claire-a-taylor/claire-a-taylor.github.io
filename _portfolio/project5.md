@@ -11,10 +11,35 @@ entry1:
 entry2:
   subtitle: CONTINUED
   video: <img class="img-fluid d-block mx-auto" src="/assets/img/portfolio/ViewMover.JPG" />
-  text: The systems
+  text: View Mover
 
 entry3:
   subtitle: CONTINUED
+  video: <img class="img-fluid d-block mx-auto" src="/assets/img/portfolio/MovementData.JPG" />
+  text: Movement Data
+  
+entry4:
+  subtitle: CONTINUED
+  video: <img class="img-fluid d-block mx-auto" src="/assets/img/portfolio/ExposeQuat.JPG" /><br><iframe src="https://drive.google.com/file/d/1-SUxI0C7LGH83tBEWEHbjs0-4Q_Ny6p-/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
+  text: Camera
+
+entry5:
+  subtitle: CONTINUED
   video: <iframe src="https://drive.google.com/file/d/1-SUxI0C7LGH83tBEWEHbjs0-4Q_Ny6p-/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
-  text: The breakdown
+  text: Enemies
+
+entry6:
+  subtitle: CONTINUED
+  video: 
+  text: Weapon Macros
+
+entry7:
+  subtitle: CONTINUED
+  video: 
+  text: 
+
+entry8:
+  subtitle: CONTINUED
+  video: 
+  text: Current Progress
 ---
