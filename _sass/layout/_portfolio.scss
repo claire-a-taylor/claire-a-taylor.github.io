@@ -73,7 +73,8 @@
 .portfolio-modal {
   .modal-dialog {
     margin: 1rem;
-    max-width: 90vw;
+    position: absolute;
+    max-width: 80vw;
     background-color: #000000;
   }
 
@@ -92,7 +93,7 @@
 
   .modal-content {
     padding: 50px 0;
-    text-align: left;
+    text-align: center;
     background-color: $gray-200;
     h2 {
       font-size: 3em;
@@ -115,6 +116,7 @@
     ul.list-inline {
       margin-top: 0;
       margin-bottom: 30px;
+      text-align: left;
     }
     img {
       margin-bottom: 30px;
