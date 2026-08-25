@@ -78,8 +78,8 @@
   }
 
   .click-zoom input[type=checkbox] {
+    max-width: 200px;
     display: none
-    width: 200px;
   }
   .click-zoom img {  
     transition: transform 0.25s ease;
