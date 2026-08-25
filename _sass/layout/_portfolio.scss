@@ -82,6 +82,7 @@
     display: none
   }
   .click-zoom img {  
+    width: 480px;
     transition: transform 0.25s ease;
     cursor: zoom-in
   }
