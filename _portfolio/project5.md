@@ -15,7 +15,7 @@ entry2:
 
 entry3:
   subtitle: CONTINUED
-  video: <div class='click-zoom'><label><input type='checkbox' /><img src="/assets/img/portfolio/MovementData.JPG"></label></div>
+  video: <div class="click-zoom img-fluid d-block mx-auto"><label><input type='checkbox' /><img src="/assets/img/portfolio/MovementData.JPG"></label></div>
   text: Movement Data
   
 entry4:
