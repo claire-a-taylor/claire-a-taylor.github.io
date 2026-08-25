@@ -10,7 +10,7 @@ entry1:
 
 entry2:
   subtitle: CONTINUED
-  video: <div class="click-zoom"><input type='checkbox' /><img src="/assets/img/portfolio/ViewMover.JPG" /></div>
+  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/ViewMover.JPG" /></label></div>
   text: View Mover
 
 entry3:
