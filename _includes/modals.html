@@ -27,10 +27,12 @@
                 {% if project.entry1.subtitle != 'CONTINUED' %}
                   <p class="item-intro text-muted">{{ project.entry1.subtitle }}</p>
                 {% endif %}
-              <div  style="width: 720px; height: 480px; position: relative;">
-                <p>{{ project.entry1.video }}</p>
-                <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
-              </div>
+              {% if project.entry1.video %}
+                <div  style="width: 720px; height: 480px; position: relative;">
+                  <p>{{ project.entry1.video }}</p>
+                  <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
+                </div>
+              {% endif %}
               <p class="item-text">{{ project.entry1.text }}</p>
                 {% if project.entry2.subtitle != 'CONTINUED' %}
                   <div id="line"><hr /></div>                
