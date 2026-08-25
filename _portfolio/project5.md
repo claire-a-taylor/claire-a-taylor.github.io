@@ -25,7 +25,7 @@ entry4:
 
 entry5:
   subtitle: CONTINUED
-  video: <iframe src="https://drive.google.com/file/d/1kHsYyHkj4Ij8iK9lUlaotpGSZxSFqj6_/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
+  video: <div class="embed-responsive embed-responsive-16by9"><iframe src="https://drive.google.com/file/d/1kHsYyHkj4Ij8iK9lUlaotpGSZxSFqj6_/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe></div>
   text: Camera
 
 entry6:
