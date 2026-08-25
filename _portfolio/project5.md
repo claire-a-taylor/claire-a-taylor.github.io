@@ -10,12 +10,12 @@ entry1:
 
 entry2:
   subtitle: CONTINUED
-  video: <img class="img-fluid d-block mx-auto" src="/assets/img/portfolio/ViewMover.JPG" />
+  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/ViewMover.JPG" /></label></div>
   text: View Mover
 
 entry3:
   subtitle: CONTINUED
-  video: <div class="click-zoom img-fluid d-block mx-auto"><label><input type='checkbox' /><img src="/assets/img/portfolio/MovementData.JPG"></label></div>
+  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/MovementData.JPG"></label></div>
   text: Movement Data
   
 entry4:
