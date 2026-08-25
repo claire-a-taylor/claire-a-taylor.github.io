@@ -30,7 +30,7 @@ entry5:
 
 entry6:
   subtitle: CONTINUED
-  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/EnemyMovement.JPG" /></label></div>
+  video: <img src="/assets/img/portfolio/EnemyMovement.JPG" />
   text: Enemies
 
 entry7:
