@@ -10,7 +10,7 @@ entry1:
 
 entry2:
   subtitle: CONTINUED
-  video: /assets/img/portfolio/ViewMover.JPG
+  video: <img class="img-fluid d-block mx-auto" src="/assets/img/portfolio/ViewMover.JPG" />
   text: The systems
 
 entry3:
