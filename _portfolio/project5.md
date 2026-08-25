@@ -35,17 +35,17 @@ entry6:
 
 entry7:
   subtitle: CONTINUED
-  image: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/ModePulse.JPG" /></label></div>
+  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/ModePulse.JPG" /></label></div>
   text:
   
 entry8:
   subtitle: CONTINUED
-  image: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/FormV.JPG" /></label></div>
+  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/FormV.JPG" /></label></div>
   text:
 
 entry9:
   subtitle: CONTINUED
-  image: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/EnemyAttack.JPG" /></label></div>
+  video: <div class="click-zoom"><label><input type='checkbox' /><img src="/assets/img/portfolio/EnemyAttack.JPG" /></label></div>
   text: Weapon Macros
 
 entry10:
