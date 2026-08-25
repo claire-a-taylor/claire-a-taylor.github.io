@@ -86,7 +86,7 @@
     cursor: zoom-in
   }
   .click-zoom input[type=checkbox]:checked~img {
-    transform:  scale(2);
+    transform:  scale(4);
     cursor: zoom-out
   }
 
