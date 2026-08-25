@@ -78,14 +78,16 @@
   }
 
   .click-zoom input[type=checkbox] {
-    max-width: 200px;
+    width: 200px;
     display: none
   }
   .click-zoom img {  
+    width: 200px;
     transition: transform 0.25s ease;
     cursor: zoom-in
   }
   .click-zoom input[type=checkbox]:checked~img {
+    width: 200px;
     transform:  scale(2);
     cursor: zoom-out
   }
