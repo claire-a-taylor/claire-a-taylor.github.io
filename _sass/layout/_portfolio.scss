@@ -40,7 +40,7 @@
         }
       }
     }
-    .portfoo-caption {
+    .portfolio-caption {
       max-width: 400px;
       margin: 0 auto;
       padding: 25px;
@@ -116,7 +116,7 @@
     ul.list-inline {
       margin-top: 0;
       margin-bottom: 30px;
-      text-align: left;
+      text-align: left !important;
     }
     img {
       margin-bottom: 30px;
