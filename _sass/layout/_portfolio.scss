@@ -78,18 +78,18 @@
   }
 
   .click-zoom input[type=checkbox] {
-    align: left
+    align: left;
     width: 480px;
     display: none
   }
   .click-zoom img { 
-    align: left
+    align: left;
     width: 480px;
     transition: transform 0.25s ease;
     cursor: zoom-in
   }
   .click-zoom input[type=checkbox]:checked~img {
-    align: left
+    align: left;
     width: 480px;
     transform:  scale(3);
     cursor: zoom-out
