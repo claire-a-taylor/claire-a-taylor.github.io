@@ -129,6 +129,32 @@
                   <div id="line"><hr /></div>                
                 {% endif %}
                {% endif %}
+              {% if project.entry9.subtitle %}
+                {% if project.entry9.subtitle != 'CONTINUED' %}
+                  <p class="item-intro text-muted">{{ project.entry9.subtitle }}</p>
+                {% endif %}
+              <div  style="width: 720px; height: 480px; position: relative;">
+                <p>{{ project.entry9.video }}</p>
+                <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
+              </div>
+              <p class="item-text">{{ project.entry9.text }}</p>
+                {% if project.entry10.subtitle != 'CONTINUED' %}
+                  <div id="line"><hr /></div>                
+                {% endif %}
+               {% endif %}
+              {% if project.entry10.subtitle %}
+                {% if project.entry10.subtitle != 'CONTINUED' %}
+                  <p class="item-intro text-muted">{{ project.entry10.subtitle }}</p>
+                {% endif %}
+              <div  style="width: 720px; height: 480px; position: relative;">
+                <p>{{ project.entry10.video }}</p>
+                <div style="width: 80px; height: 80px; position: absolute; opacity: 0; right: 0px; top: 0px;"> </div>
+              </div>
+              <p class="item-text">{{ project.entry10.text }}</p>
+                {% if project.entry11.subtitle != 'CONTINUED' %}
+                  <div id="line"><hr /></div>                
+                {% endif %}
+               {% endif %}
               <button
                 class="btn btn-primary"
                 data-dismiss="modal"
