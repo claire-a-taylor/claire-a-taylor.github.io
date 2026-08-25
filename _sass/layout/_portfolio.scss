@@ -70,26 +70,25 @@
   }
 }
 
-.click-zoom input[type=checkbox] {
-  display: none
-}
-
-.click-zoom img {  
-  transition: transform 0.25s ease;
-  cursor: zoom-in
-}
-
-.click-zoom input[type=checkbox]:checked~img {
-  transform:  scale(2);
-  cursor: zoom-out
-}
-
 .portfolio-modal {
   .modal-dialog {
     margin: 1rem;
     max-width: 100vw;
     background-color: #000000;
   }
+
+  .click-zoom input[type=checkbox] {
+  display: none
+  }
+  .click-zoom img {  
+    transition: transform 0.25s ease;
+    cursor: zoom-in
+  }
+  .click-zoom input[type=checkbox]:checked~img {
+    transform:  scale(2);
+    cursor: zoom-out
+  }
+
   .modal-content {
     padding: 50px 0;
     text-align: center;
