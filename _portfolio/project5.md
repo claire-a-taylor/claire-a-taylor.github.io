@@ -42,23 +42,23 @@ entry7:
   subtitle: CONTINUED
   image: <input type='checkbox' /><img src="/assets/img/portfolio/ModePulse.JPG"></img>
   video:
-  text: MODE&#58; These macros dictate how a weapon behaves in terms of number of shots, timing, spacing, etc. All weapons start with a Mode and can be supplied with different variables depending on the specific Mode. Pulse takes in a number of attacks, a number of attack groups, and the timing between each attack and each group. This results in a weapon that fires multiple times in multiple groups.
+  text: MODE&#58; These macros dictate how a weapon behaves in terms of number of shots, timing, spacing, etc. All weapons start with a Mode and can be supplied with different variables depending on the specific Mode. For example&#58; Pulse takes in a number of attacks, a number of attack groups, and the timing between each attack and each group. This results is a weapon that fires multiple times in multiple groups, while Rapid simply takes in the timing between each attack and a duration, resulting in a weapon that fires continuously until the duration expires.
   
 entry8:
   subtitle: CONTINUED
   image: <img src="/assets/img/portfolio/FormV.JPG"></img>
   video:
-  text: FORM&#58; 
+  text: FORM&#58; These macros control the 'shape' of a weapon's attacks. Currently there are five different forms made (with more coming in the future) that can feel dramatically different based on the weapon used, the Mode, and the parameters passed in. Line simply projects the attack outwards in a single line by taking in a float as a direction in degrees relative to the enemy's front. V takes an angle in addition to a direction, which displaces two attack lines by that amount both above and below the direction. Alternatively, Burst takes a direction and an angle to randomly fire attacks within a cone created by the given parameters. While I aim for attacks that are somewhat predictable with patterns in this game, I don't believe having some element of random in attacks is terrible is used sparingly.
 
 entry9:
   subtitle: CONTINUED
   image: <img src="/assets/img/portfolio/EnemyAttack.JPG"></img>
   video:
-  text: SPAWN&#58; 
+  text: SPAWN&#58; The final bit of building modular enemy weapons is the Spawn macros. These are typically extremely simple, consisting of a spawn actor node and the transform calculations done inside the Form macros. I also created a Map of the possible version of each attack type, for example a 'Bullet' that can be destroyed by player attacks vs a 'Bullet' that does not interact with player attacks. By placing these three macro types in sequence MODE -> FORM -> SPAWN, I can build a very wide range of possible enemy attacks and then gate them behind an "AttackPattern" variable and a switch. Examples of this can be seen in the video of my current proto/demo room video below, where the same enemy is spawned in twice. In the first instance it is using AttackPattern 0, which has Pulse V Bullet as a PrimaryCombatBehavior event set in 5 bursts of 3, and a Pulse Line Bullet as a SecondaryCombatBehavior set in 3 bursts of 10. The second time the enemy spawns, its AttackPattern has been set to 1, which swaps its Primary and Secondary over to Pulse V Beam with only 1 burst of 1 and a 15 degree angle, and Rapid Burst Bullet with a 15 degree angle and a 5 second duration. Even with the same enemy both times, by changing the modular weapon system, they can appear to be presented as totally different challenges.
 
 entry10:
   subtitle: CONTINUED
   image:
   video: <iframe src="https://drive.google.com/file/d/1-SUxI0C7LGH83tBEWEHbjs0-4Q_Ny6p-/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
-  text: Current Progress
+  text: To cap it off, I did make a very simple but functional widget UI main menu with responsive character/stage selection options. In the future I plan to have the representative map on the right update its configuration to reflect where various characters are during each of the periods selected on the slider and to show the state of events across the various areas. I think doing this can give players a sense of interest or excitement, and help the story across the different characters feel more like a cohesive whole taking place in one world, rather than just a detached set of stages.<br>I still have an enormous amount of work to do, but I've been able to get most of the systems I need in place to start actually blocking out stages with confidence I won't get hung up in the process. The next major thing I tackle will likely be the Scoring System, as I know that is one of (if not the) biggest thing that hard core shmup players care about.<br>Story mode will be for the players who just want to play a game, be it anywhere from casual to challenge lovers.<br>Arcade Mode will be for you no-nonsense hardcore players, I'll make sure you have a space to flex your 1cc, impossibly high score, bullet weaving dreams!<br>Limitless Mode will be for the true test of skill though. How will you last when you can't just memorize a path?
 ---
