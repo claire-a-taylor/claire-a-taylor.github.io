@@ -24,19 +24,19 @@ entry4:
   subtitle: CONTINUED
   image: <img src="/assets/img/portfolio/ExposeQuat.JPG"></img>
   video:
-  text: Without having to concern myself with gimbal lock, I could now feed in data for various curve based rotations for the view, player rotation, and player orbit independently of one another (as long as I made sure the view and the player ended back up on the same plane again to be constrained by the VireMover's walls). Originally I used raw numbers as a target to rotate to, but this posed serious limitations for more dynamic movements, so I eventually swapped this out for vector curves loaded into timelines.
+  text: Without having to concern myself with gimbal lock, I could now feed in data for various curve based rotations for the view, player rotation, and player orbit independently of one another (as long as I made sure the view and the player ended back up on the same plane again to be constrained by the VireMover's walls). Originally I used raw floats as a target to rotate to, but this posed serious limitations for more dynamic movements, so I eventually swapped this out for vector curves loaded into timelines. Doing this gave me a finer control over which angles rotated where and when, and let me set or even change the timeline playback speed in mid run in response to events that may happen in the game. I'm pretty happy with how the result turned out, though I do believe there is still room for more improvement when it comes to some dynamic views or angles, like swapping to other cameras as view targets, or have the camera offset from being center bound to the ViewMover's root. Instead of pursuing the polish and fine tuning early before I actually had use cases though, I opted to move on to other systems and just make note of where I might want to make improvements as the actual need presents itself.
 
 entry5:
   subtitle: CONTINUED
   image:
   video: <iframe src="https://drive.google.com/file/d/1kHsYyHkj4Ij8iK9lUlaotpGSZxSFqj6_/preview" width="720" height="480" frameborder="0" scrolling="no" seamless="" allowfullscreen></iframe>
-  text: Camera
+  text: Something I surprising agonized over longer than I expected was how best to handle enemy movement and behavior. How best to hold them in reserve before their time to spawn in, how best to actually spawn them in, and how to make them behave once they do spawn in? Of course I made a proper inheritance structure for enemies starting from the lowest level of "Basic_Damageable" that contains all the things that would be common for anything that can take damage, and it was here I also added "EnterBehavior" and "ExitBehavior" functions. For now, I'm hiding enemies waiting to be spawned in behind the camera and then setting their position to a spawn lane marker after receiving a signal to spawn in the next set of enemies loaded into an array. This is a very temporary setup, but the point here is once an enemy is repositioned I set a variable to the enemy for "IsEntering", which starts feeding unique movement data to the enemy. When an "ExitReady" variable is flipped, the enemy also runs a different set of movement data to cause the enemy to leave.
 
 entry6:
   subtitle: CONTINUED
   image: <img src="/assets/img/portfolio/EnemyMovement.JPG"></img>
   video:
-  text: Enemies
+  text: The state between Enter and Exit occurs when an enemy moves far enough into the play area for one of two special collision volumes on the enemy to connect with the ViewMover's "EnemyActivationBox". This flips the IsEntering off and triggers the "EnableBehavior" function, containing any unique enemy movement (like weaving around, circling, charging the player, etc) and also triggering combat events.
 
 entry7:
   subtitle: CONTINUED
