@@ -78,19 +78,19 @@
   }
 
   .click-zoom input[type=checkbox] {
-    display: none
+    display: none;
+    z-index: 3;
   }
   .click-zoom img { 
     width: 480px;
     transition: transform 0.25s ease;
     cursor: zoom-in;
     z-index: 3;
-    //padding: 1px !important;
-    //margin: 1px !important;
   }
   .click-zoom input[type=checkbox]:checked~img {
     transform:  scale(3);
-    cursor: zoom-out
+    cursor: zoom-out;
+    z-index: 3;
   }
 
   .modal-content {
