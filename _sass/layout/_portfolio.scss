@@ -84,8 +84,9 @@
     width: 480px;
     transition: transform 0.25s ease;
     cursor: zoom-in;
-    padding: 1px !important;
-    margin: 1px !important;
+    z-index: 3;
+    //padding: 1px !important;
+    //margin: 1px !important;
   }
   .click-zoom input[type=checkbox]:checked~img {
     transform:  scale(3);
